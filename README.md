@@ -16,6 +16,16 @@
 <a href="https://www.linkedin.com/in/ashfaqhossain11/" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" height="40" width="40" /></a>
 <a href="https://www.facebook.com/ashfaq.hossain.35" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4406/4406220.png" height="40" width="40" /></a>
 </p>
+
+### 🖥️ Languages and Tools
+![Kali Linux](./icons/kalilinux.png "Kali Linux")
+![BurpSuite](./icons/BurpSuite.png "BurpSuite")
+![Python](./icons/python.png "Python")
+![Java](./icons/java.png "Java")
+![PowerShell](./icons/powershell.png "PowerShell")
+![VScode](./icons/vscode.png "VScode") 
+![Docker](./icons/docker.png "Docker")
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashfaq10&show_icons=true&locale=en&layout=compact" alt="Ashfaq10" /></p>
 <!--
 **Ashfaq10/Ashfaq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
