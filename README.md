@@ -1,4 +1,7 @@
-![MasterHead](<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="800">)
+![MasterHead]
+<p align="center">
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+</p>
 
 <!--
 **Ashfaq10/Ashfaq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
