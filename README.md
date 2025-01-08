@@ -7,7 +7,7 @@
 <img align="right" width="350" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
-- 💬 Ask me about **SIEM, SOAR, TIP, Case Management, Python**
+- 💬 Ask me about **Python, Django, Web Development, SIEM, SOAR, TIP, Case Management**
 
 - 📫 How to reach me **ashfaqhossainevan@gmail.com**
 
