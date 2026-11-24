@@ -1,43 +1,152 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ashfaq%20Hossain&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Operations%20Lead%20%C2%B7%20Full-Stack%20Engineer&descAlignY=58&descSize=20" alt="Ashfaq Hossain" />
+
+<a href="https://github.com/Ashfaq10">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00E5A8&center=true&vCenter=true&width=760&height=50&lines=Leading+SOC+%26+vulnerability+management+for+10+clients;Building+SIEM+detections+%26+SOAR+automation;Shipping+Django+%2B+React+platforms;Hunting+threats.+Writing+secure+code." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ashfaqhossain11/"><img src="https://img.shields.io/badge/LinkedIn-ashfaqhossain11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ashfaqhossainevan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Ashfaq10&label=Profile%20views&color=00b894&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+### 👨‍💻 About me
+
+Security engineer and full-stack developer with almost 4 years of experience, based in **Dhaka, Bangladesh**. I run security operations for client organisations, build the detection and automation behind them, and write the Django and React platforms that security teams use.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ Security
+- Lead SecOps and vulnerability management across **10 client organisations**
+- Built and deployed a full **SOC** (SIEM + SOAR + dashboards)
+- Raised SIEM log coverage to **70%** of a leading Bangladeshi bank's assets
+- Wazuh and Graylog detections mapped to **MITRE ATT&CK**
+- DFIR, threat hunting, threat modelling and VAPT
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Engineering
+- **Django / DRF** and **FastAPI** backends with JWT and RBAC
+- **React** frontends wired to REST APIs
+- **PostgreSQL** schema design, indexing and query tuning
+- **Docker**, CI/CD, AWS and GCP deployments
+- Python automation for log analysis, enrichment and alert triage
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img width="900" height="500" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-</p>
-<h1 align="center">Hi 👋, I'm Ashfaq Hossain</h1>
-<h3 align="center">Let's secure the digital world together! 🔐</h3>
-
-<img align="right" width="350" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-
-- 💬 Ask me about **Python, Django, Web Development, SIEM, SOAR, TIP, Case Management**
-
-- 📫 How to reach me **ashfaqhossainevan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashfaqhossain11/" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png" height="40" width="40" /></a>
-<a href="https://www.facebook.com/ashfaq.hossain.35" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4406/4406220.png" height="40" width="40" /></a>
+  <img src="https://img.shields.io/badge/🔭_Now-Security_Operations_Lead_@_Penough-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Teaching-SOC,_SIEM,_DFIR_@_Penough_Academy-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/🚩_Member-CTF_Community_Bangladesh-d29922?style=flat-square" />
 </p>
 
-### 🖥️ Languages and Tools
-![Kali Linux](./icons/kalilinux.png "Kali Linux")
-![BurpSuite](./icons/BurpSuite.png "BurpSuite")
-![Python](./icons/python.png "Python")
-![Java](./icons/java.png "Java")
-![PowerShell](./icons/powershell.png "PowerShell")
-![VScode](./icons/vscode.png "VScode") 
-![Docker](./icons/docker.png "Docker")
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashfaq10&show_icons=true&locale=en&layout=compact" alt="Ashfaq10" /></p>
-<!--
-**Ashfaq10/Ashfaq10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tech stack
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Development**
+
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,react,js,postgres,docker,aws,gcp,linux,bash,powershell,git,postman&perline=14" alt="Development stack" />
+
+**Security tooling**
+
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Shuffle_SOAR-FF6A00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TheHive-F5A623?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCTI-1B6EF3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MISP-1F4E79?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+<img src="https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logo=tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zeek-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+</div>
+
+---
+
+### 🏅 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Lead%20Auditor-0b5fff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chronicle-Certified%20SOAR%20Analyst-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CASA-Certified%20API%20Security%20Analyst-00b894?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/CNSP-Network%20Security%20Practitioner-e17055?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CAP-AppSec%20Practitioner-6c5ce7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Belkasoft-Windows%20%26%20Android%20Forensics-d63031?style=for-the-badge" />
+
+</div>
+
+---
+
+### 🚀 Featured work
+
+<div align="center">
+
+<a href="https://github.com/Ashfaq10/Wazuh-Rules"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashfaq10&repo=Wazuh-Rules&theme=tokyonight&hide_border=true" alt="Wazuh-Rules" /></a>
+<a href="https://github.com/Ashfaq10/Wazuh-Decoder"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashfaq10&repo=Wazuh-Decoder&theme=tokyonight&hide_border=true" alt="Wazuh-Decoder" /></a>
+<br/>
+<a href="https://github.com/Ashfaq10/FreelanceFlow"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashfaq10&repo=FreelanceFlow&theme=tokyonight&hide_border=true" alt="FreelanceFlow" /></a>
+<a href="https://github.com/Ashfaq10/TuitionFinder"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashfaq10&repo=TuitionFinder&theme=tokyonight&hide_border=true" alt="TuitionFinder" /></a>
+
+</div>
+
+> **Also building:** *BugValluk*, a vulnerability validation, risk prioritisation and remediation retest platform (Django, RBAC), and contributing to *PhishTop*, a phishing simulation platform.
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashfaq10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Ashfaq10&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq10&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashfaq10/Ashfaq10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashfaq10/Ashfaq10/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ashfaq10/Ashfaq10/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Ask me about:** SOC · SIEM · SOAR · DFIR · Threat hunting · VAPT · Django · React · API security
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+
+</div>
