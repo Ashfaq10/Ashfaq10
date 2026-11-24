@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ashfaq%20Hossain&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Operations%20Lead%20%C2%B7%20Full-Stack%20Engineer&descAlignY=58&descSize=20" alt="Ashfaq Hossain" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ashfaq%20Hossain&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Co-Founder%20%C2%B7%20Security%20Operations%20Lead%20%C2%B7%20Full-Stack%20Engineer&descAlignY=58&descSize=20" alt="Ashfaq Hossain" />
+
+**Co-Founder at [Penough](https://penough.com)**
 
 <a href="https://github.com/Ashfaq10">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00E5A8&center=true&vCenter=true&width=760&height=50&lines=Leading+SOC+%26+vulnerability+management+for+10+clients;Building+SIEM+detections+%26+SOAR+automation;Shipping+Django+%2B+React+platforms;Hunting+threats.+Writing+secure+code." alt="Typing SVG" />
