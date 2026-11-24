@@ -15,11 +15,23 @@
 
 </div>
 
+~~~bash
+ashfaq@penough:~$ whoami
+Ashfaq Hossain: Security Operations Lead and Full-Stack Engineer, Dhaka, Bangladesh
+
+ashfaq@penough:~$ cat focus.txt
+SOC operations · SIEM detection engineering · SOAR automation · DFIR
+Django / DRF · React · PostgreSQL · Docker · secure-by-design APIs
+
+ashfaq@penough:~$ ./status.sh
+[OK] Leading security operations across 10 client organisations
+[OK] Teaching SOC, SIEM and DFIR at Penough Academy
+[OK] Open to collaboration on detection engineering and secure web platforms
+~~~
+
 ---
 
-### 👨‍💻 About me
-
-Security engineer and full-stack developer with almost 4 years of experience, based in **Dhaka, Bangladesh**. I run security operations for client organisations, build the detection and automation behind them, and write the Django and React platforms that security teams use.
+### 🧭 What I do
 
 <table>
 <tr>
@@ -46,11 +58,18 @@ Security engineer and full-stack developer with almost 4 years of experience, ba
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔭_Now-Security_Operations_Lead_@_Penough-1f6feb?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Teaching-SOC,_SIEM,_DFIR_@_Penough_Academy-8957e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/🚩_Member-CTF_Community_Bangladesh-d29922?style=flat-square" />
-</p>
+---
+
+### 🕰️ Experience
+
+| Period | Role | Company |
+|---|---|---|
+| Jun 2026 – now | **Security Operations Lead** | Penough Ltd. |
+| May 2024 – Jun 2026 | Security Research Engineer / Full Stack Engineer | Penough Ltd. |
+| Apr 2023 – May 2024 | Cyber Security Engineer / Software Engineer | FSN Solutions Ltd. |
+| Nov 2022 – Feb 2023 | Junior Software Engineer | BNX Networks Inc. |
+
+🎓 **B.Sc. in Computer Science and Engineering**, BRAC University (CGPA 3.86/4.00, Highest Distinction)
 
 ---
 
@@ -119,27 +138,33 @@ Security engineer and full-stack developer with almost 4 years of experience, ba
 
 ---
 
-### 📊 GitHub stats
+### 📊 Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashfaq10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ashfaq10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ashfaq10&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ashfaq10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq10&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaq10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Ashfaq10&theme=tokyonight&hide_border=true" alt="Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ashfaq10&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Ashfaq10&theme=default&hide_border=true" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=Ashfaq10&theme=tokyonight&hide_border=true" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq10&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq10&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq10&theme=minimal&hide_border=true&area=true" />
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaq10&theme=tokyo-night&hide_border=true&area=true" />
+</picture>
 
-</div>
-
-### 🐍 Contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashfaq10/Ashfaq10/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashfaq10/Ashfaq10/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ashfaq10/Ashfaq10/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
