@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://ashfaqhossain.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ashfaqhossain.netlify.app-00b894?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/ashfaqhossain11/"><img src="https://img.shields.io/badge/LinkedIn-ashfaqhossain11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ashfaqhossainevan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=Ashfaq10&label=Profile%20views&color=00b894&style=for-the-badge" alt="Profile views" />
