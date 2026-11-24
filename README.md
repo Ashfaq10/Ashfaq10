@@ -17,13 +17,14 @@
 
 ~~~bash
 ashfaq@penough:~$ whoami
-Ashfaq Hossain: Security Operations Lead and Full-Stack Engineer, Dhaka, Bangladesh
+Ashfaq Hossain: Co-Founder at Penough, Security Operations Lead and Full-Stack Engineer, Dhaka, Bangladesh
 
 ashfaq@penough:~$ cat focus.txt
 SOC operations · SIEM detection engineering · SOAR automation · DFIR
 Django / DRF · React · PostgreSQL · Docker · secure-by-design APIs
 
 ashfaq@penough:~$ ./status.sh
+[OK] Co-founder of Penough, building security services, training and products
 [OK] Leading security operations across 10 client organisations
 [OK] Teaching SOC, SIEM and DFIR at Penough Academy
 [OK] Open to collaboration on detection engineering and secure web platforms
@@ -64,7 +65,7 @@ ashfaq@penough:~$ ./status.sh
 
 | Period | Role | Company |
 |---|---|---|
-| Jun 2026 – now | **Security Operations Lead** | Penough Ltd. |
+| Jun 2026 – now | **Co-Founder & Security Operations Lead** | Penough Ltd. |
 | May 2024 – Jun 2026 | Security Research Engineer / Full Stack Engineer | Penough Ltd. |
 | Apr 2023 – May 2024 | Cyber Security Engineer / Software Engineer | FSN Solutions Ltd. |
 | Nov 2022 – Feb 2023 | Junior Software Engineer | BNX Networks Inc. |
